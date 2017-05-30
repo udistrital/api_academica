@@ -1,11 +1,12 @@
 package main
 
 import (
-	
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
-	_ "github.com/lib/pq"
 	"github.com/astaxie/beego/plugins/cors"
+	_ "github.com/lib/pq"
+	_ "github.com/udistrital/api_academica/routers"
+	
 )
 
 func init() {
