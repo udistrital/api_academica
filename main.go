@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/udistrital/api_academica/routers"
+	
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/lib/pq"
