@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"api_academica/controllers"
+	"github.com/udistrital/api_academica/controllers"
 
 	"github.com/astaxie/beego"
 )
